@@ -1,4 +1,4 @@
-# project ulterior
+# projectulterior
 
 Project Ulterior aims to decentralize engineering and facilitate the sharing of engineering work.
 
